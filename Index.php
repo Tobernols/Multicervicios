@@ -98,15 +98,3 @@
 
 </body>
 </html>
-
-<?php 
-	//if ($sexo="m")
-	//{
-		//$sueldo=$sueldo-$sueldo*0.10;
-	//}
-	//else
-	//{
-		//$sueldo=$sueldo+$sueldo*0.10;
-	//}
-	//($sexo="m")?$sueldo=$sueldo-$sueldo*0.10:$sueldo=$sueldo+$sueldo*0.10;
-?>
